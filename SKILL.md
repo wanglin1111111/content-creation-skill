@@ -1,5 +1,5 @@
 ﻿---
-name: "内容创作技能包"
+name: 内容创作技能包
 version: 1.0.0
 author: wanglin1111111
 description: "内容创作技能包 skill"
